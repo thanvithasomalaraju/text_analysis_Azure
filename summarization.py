@@ -1,6 +1,6 @@
 from openai import AzureOpenAI
 endpoint = "https://project25115-resource.services.ai.azure.com/"
-api_key = "1KpC5N3S76nK55GTEJ3Oy0qPorsV2tYmoDeSOAUNDj0Hjc8C6bqqJQQJ99CKACE1PydXJ3w3AAAAACOGsTKZ"
+api_key = "1KpC5N3S76nK55GTEJ3Oy0qPorsyyV2tYmoDeSOAUNDj0Hjc8C6bqqJQQJ99CKACE1PydXJ3w3AAAAACOGsTKZ"
 deployment_name = "gpt-5-mini"
 long_text ="""Here is a long paragraph you can use for testing:
 
