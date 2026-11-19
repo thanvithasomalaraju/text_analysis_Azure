@@ -1,6 +1,6 @@
 from openai import AzureOpenAI
 endpoint = "https://project25115-resource.services.ai.azure.com/"
-api_key = "1KpC5N3S76nK55GTEJ3Oy0qPorsV2tYmoDeSOAUNDj0Hjc8C6bqqJQQJ99CKACE1PydXJ3w3AAAAACOGsTKZ"
+api_key = "1KpC5N3S76nK55GTEJ3Oy0qPorsV2tYmoDeasdfghjklmnbvcxzJ3w3AAAAACOGsTKZ"
 deployment_name = "gpt-5-mini"
 #key phrase extraction from user content 
 
